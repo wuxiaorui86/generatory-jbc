@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yeoman Generator for Yeoman Generators
 [![Build Status](https://secure.travis-ci.org/yeoman/generator-generator.png?branch=master)](https://travis-ci.org/yeoman/generator-generator)
 
@@ -69,3 +70,9 @@ command or commands that cause the issue.
 
 ## License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+=======
+generatory-jbc
+==============
+
+juhuasuan business common
+>>>>>>> e9c5033f4e4c055d5bbc7596c437b8c6d1376b7f
