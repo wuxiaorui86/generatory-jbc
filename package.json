@@ -1,0 +1,20 @@
+{
+  "name": "generator-jbc",
+  "version": "1.0.7",
+  "description": "generator for JBC",
+  "keywords": [
+    "yeoman-generator",
+    "JBC"
+  ],
+  "author": {
+    "name": "jbc-team"
+  },
+  "main": "app/index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "readme": "# Yeoman Generator for Yeoman Generators\r\n[![Build Status](https://secure.travis-ci.org/yeoman/generator-generator.png?branch=master)](https://travis-ci.org/yeoman/generator-generator)\r\n\r\nMaintainer: [Pascal Hartig](https://github.com/passy)\r\n\r\n![Yo dawg, I heard you like generators?](http://i.imgur.com/2gqiift.jpg)\r\n\r\n`generator-generator` scaffolds out a new basic Yeoman generator with some\r\nsensible defaults.\r\n\r\n## Commands\r\n\r\n* `yo generator` shows a wizard for generating a new generator\r\n* `yo generator:subgenerator NAME` generates a subgenerator with the name NAME\r\n\r\n## What do you get?\r\n\r\n`generator-generator` scaffolds out a complete project directory structure for\r\nyou.\r\n\r\n    .\r\n    ├── app\r\n    │   ├── index.js\r\n    │   └── templates\r\n    │       ├── editorconfig\r\n    │       └── jshintrc\r\n    ├── .editorconfig\r\n    ├── .gitattributes\r\n    ├── .gitignore\r\n    ├── .jshintrc\r\n    ├── LICENSE\r\n    ├── package.json\r\n    ├── README.md\r\n    └── test\r\n        ├── test-creation.js\r\n        └── test-load.js\r\n\r\n## Getting started\r\n- Make sure you have [yo](https://github.com/yeoman/yo) installed:\r\n    `npm install -g yo`\r\n- Install the generator: `npm install -g generator-generator`\r\n- Run: `yo generator`\r\n\r\n## Changelog\r\n\r\n* 0.2.1\r\n    * The name specified in the prompt is now used in `package.json`.\r\n    * `generator-generator` officially replaced the built-in generator that was\r\n      bundled with yo.\r\n\r\n* 0.2\r\n    * Added subgenerator for subgenerators\r\n    * Generated generator now generates package.json, component.json and\r\n      installs them by default.\r\n\r\n* 0.1.1\r\n    * Upgraded mocha to 1.9.0\r\n    * Include `.travis.yml`\r\n\r\n## Contributing\r\n\r\nSee the [contribution\r\ndocs](https://github.com/yeoman/yeoman/blob/master/contributing.md).\r\n\r\nWhen submitting an issue, please follow [the\r\nguidelines](https://github.com/yeoman/yeoman/blob/master/contributing.md#issue-submission).\r\nEspecially important is to make sure Yeoman is up-to-date, and providing the\r\ncommand or commands that cause the issue.\r\n\r\n## License\r\n[MIT License](http://en.wikipedia.org/wiki/MIT_License)\r\n",
+  "readmeFilename": "README.md",
+  "_id": "generator-jbc@1.0.6",
+  "_from": "generator-jbc@"
+}
