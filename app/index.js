@@ -69,9 +69,6 @@ GeneratorJbc.prototype.app = function app() {
 	this.mkdir('demo');
 	this.copy('demo/index.html','demo/index.html');
 	
-	this.mkdir('doc');
-	this.copy('doc/README.md','doc/README.md');
-	
 	this.copy('Gruntfile.js', 'Gruntfile.js');
 	this.copy('gitignore', '.gitignore');
 	this.copy('README.md', 'README.md');
