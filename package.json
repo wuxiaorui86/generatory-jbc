@@ -1,6 +1,6 @@
 {
   "name": "generator-jbc",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "generator for JBC",
   "keywords": [
     "yeoman-generator",
